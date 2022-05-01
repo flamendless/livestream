@@ -1,0 +1,3 @@
+*.out
+wordle_cpp/words5.txt
+wordle_cpp/words_alpha.txt
