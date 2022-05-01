@@ -1,0 +1,12 @@
+name = "FlappyIbon"
+love_version = "11.3"
+
+build_directory = "release"
+love_files = [
+	"*/*",
+]
+
+[windows]
+[windows.exe_metadata]
+CompanyName = "Brandon and Conrad"
+LegalCopyright = "Copyright of flamendless studio 2020-2030"
